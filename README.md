@@ -9,7 +9,7 @@ I have had previous experiences with very basic coding in Python and using the P
 - Understand coding and how to code in an efficient and effective way
 - Become proficient in a coding language 
 - Learn how to use GitHub well 
----
+--- 
 
 ## The Best Thing I Ate this Summer and Where I Ate it
 One of the best things I ate this summer was Korean food at a restaurant while visiting my cousins in Illinois.
