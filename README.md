@@ -5,10 +5,10 @@ Caden Kim
 
 ---
 
-### My Goals for this Course
+## My Goals for this Course
 
 ---
 
-#### The Best Thing I Ate this Summer and Where I ATe it
+## The Best Thing I Ate this Summer and Where I ATe it
 
 ---
