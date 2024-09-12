@@ -2,7 +2,7 @@
 Caden Kim
 
 ## My Previous Coding Experience
-I have had previous experiences with very basic coding in Python and using the Pygame Zero sublibrary for HIP class in 9th grade, but I do not remember much at all of it anymore. 
+I have had previous experiences with very basic coding in Python and using the Pygame Zero sublibrary for HIP class in 9th grade but I do not remember much at all of it anymore. 
 
 ## My Goals for this Course
 - Understand coding and how to code in an efficient and effective way
